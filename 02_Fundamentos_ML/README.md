@@ -70,7 +70,9 @@ Este módulo contém **4 notebooks**:
 
 ---
 
-## Autores
+## Autor
 
+- Maisa Lumi Sonoda
+- Thales Vieira Rodrigues
 
 ---
