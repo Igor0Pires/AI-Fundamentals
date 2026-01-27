@@ -86,5 +86,9 @@ Este módulo contém **6 notebooks**:
 
 ## Autores
 
+- Felipe Melo
+- Henrique Nogueira Pedro Lindoso
+- Igor Pires Ferreira
+- Maisa Lumi Sonoda
 
 ---
