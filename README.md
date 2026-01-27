@@ -124,6 +124,7 @@ pip install -r requirements.txt
 - Gabriel da Silva Navarro
 - Henrique Nogueira Pedro Lindoso
 - Igor Pires Ferreira
+- Lucas Antonio Pataluch dos Santos
 - Maisa Lumi Sonoda
 - Thales Vieira Rodrigues
     
