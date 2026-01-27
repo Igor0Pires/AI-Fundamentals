@@ -34,11 +34,26 @@ Este módulo contém **3 notebooks**:
 ---
 
 ## Fontes (bibliografia principal)
-
-
+- [What ls Unsupervised Learning?](https://www.mathworks.com/discovery/unsupervised-learning.html). MathWorks 
+- Mark Taylor. [Supervised vs. Unsupervised Learning: Understanding the Key Differences](https://taylor-mark110.medium.com/supervised-vs-unsupervised-learning-understanding-the-key-differences-d43a3c8ede82). Medium
+- Kurtis Pykes. [Introdução ao aprendizado não supervisionado](https://www.datacamp.com/pt/blog/introduction-to-unsupervised-learning). DataCamp
+- Analytics Vidhya. [Classification vs. Clustering- Which One is Right for Your Data?](https://www.analyticsvidhya.com/blog/2023/05/classification-vs-clustering/). Analytics Vidhya 
+- Prof. Marcelo de Souza Lauretto. [Análise Exploratória de Dados - Capftulo 1](https://www.each.usp.br/lauretto/SIN5008_2011/aula01/aula1). EACH-USP 
+- Gouranga Jha. [A Holistic Guide to Exploratory Data Analysis (EDA) for Machine Learning and Deep Learning](https://medium.com/@post.gourang/a-holistic-guide-to-exploratory-data-analysis-eda-for-machine-learning-and-deep-learning-bc4f18f0143b). Medium
+- Christine Jiang. [How to NAIL Exploratory Data Analysis Playbook Ep. 4](https://youtu.be/deS6lETubdU?si=cowdXzGujxZAfrVE).
+- [Exploratory Data Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/chapter4.pdf). Carnegie Mellon University 
 ---
 
 ## Saber mais (leituras complementares)
+
+- [`sklearn.manifold.TSNE`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+- [`sklearn.manifold.Isomap`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
+- [`sklearn.decomposition.KernelPCA`](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html)
+- [`sklearn.cluster.AgglomerativeClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
+- [`sklearn.cluster.SpectralClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
+- [`sklearn.cluster.AffinityPropagation`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html)
+- [`sklearn.cluster.MeanShift`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)
+- [`sklearn.cluster.HDBSCAN`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.HDBSCAN.html)
 
 
 ---
