@@ -1,4 +1,4 @@
-# Módulo 1: Introdução ao Machine Learning
+# Módulo 1: Introdução
 
 ## Visão geral do módulo
 

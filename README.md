@@ -1,8 +1,8 @@
-# Case IA.dev
+# Introdução ao Machine Learning
 
 ## Introdução
 
-**Case IA.dev** é um material estruturado que cobre Machine Learning desde conceitos fundamentais até algoritmos avançados. O material integra explicações conceituais, formalização matemática e implementação prática em Python.
+**Introdução ao Machine Learning** é um material estruturado que cobre Machine Learning desde conceitos fundamentais até algoritmos avançados. O material integra explicações conceituais, formalização matemática e implementação prática em Python.
 
 ---
 
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ./
 ├── README.md
 ├── requirements.txt
-├── 01_Introducao_ML/
+├── 01_Introducao/
 │   ├── README.md
 │   ├── 01_fundamentos_ia_ml.ipynb
 │   ├── 02_tipos_aprendizado.ipynb
