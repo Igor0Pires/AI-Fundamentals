@@ -56,42 +56,51 @@ Este módulo contém **6 notebooks**:
 ---
 
 ## Fontes (bibliografia principal)
-
 - Müller, A. C., & Guido, S. (2016). Introduction to machine learning with python: A guide for data scientists. O'Reilly Media, Inc. 
 
 - Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
 
+- [Logistic Regression in Machine Learning](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/). GeeksForGeeks.
+- [Kernel Trick in Support Vector Classification](https://www.geeksforgeeks.org/machine-learning/kernel-trick-in-support-vector-classification/). GeeksForGeeks.
+- [What Is a Support Vector Machine?](https://uk.mathworks.com/discovery/support-vector-machine.html). MathWorks
+- [O que são máquinas de vetores de suporte (SVMs)?](https://www.ibm.com/br-pt/think/topics/support-vector-machine). IBM.
 
-- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
-- [Pedram Jahangiry](https://www.youtube.com/@pedramjahangiry)
+
+
 
 ---
 
 ## Saber mais (leituras complementares)
+- **destaques:**
+   - **Regularização:** [Logistic Regression and Regularization](https://medium.com/@rithpansanga/logistic-regression-and-regularization-avoiding-overfitting-and-improving-generalization-e9afdcddd09d)
+   - **Softmax Regression:** [Multinomial Logistic Regression](https://rasbt.github.io/mlxtend/user_guide/classifier/SoftmaxRegression/)
+   - **Fundamentos:** [Understanding Logistic Regression](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
 
-- **Regularização:** [Logistic Regression and Regularization](https://medium.com/@rithpansanga/logistic-regression-and-regularization-avoiding-overfitting-and-improving-generalization-e9afdcddd09d)
-- **Softmax Regression:** [Multinomial Logistic Regression](https://rasbt.github.io/mlxtend/user_guide/classifier/SoftmaxRegression/)
-- **Fundamentos:** [Understanding Logistic Regression](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
----
 
-   **Documentação Oficial:**
-- [Scikit-Learn: SVM](https://scikit-learn.org/stable/modules/svm.html)
-- [SVC API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
-- [SVR API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
-- [LightGBM](https://lightgbm.readthedocs.io/en/stable/Python-Intro.html)
-- [CatBoost](https://catboost.ai/docs/en/concepts/python-installation)
-- [VotingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
+- **Documentação Oficial:**
+   - [Scikit-Learn: SVM](https://scikit-learn.org/stable/modules/svm.html)
+   - [SVC API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+   - [SVR API Reference](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
+   - [VotingClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
+   - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
+   - [LightGBM](https://lightgbm.readthedocs.io/en/stable/Python-Intro.html)
+   - [CatBoost](https://catboost.ai/docs/en/concepts/python-installation)
 
-**Tutoriais e Artigos:**
-- Drew Wilimitis. [The Kernel Trick](https://medium.com/data-science/the-kernel-trick-c98cdbcaeb3f). Medium
-- Sunil Ray. [Understanding Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/). Analytics Vidhya.
-- Avinash Navlani. [SVM Tutorial](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python). DataCamp
+- **Tutoriais e Artigos:**
+   - Drew Wilimitis. [The Kernel Trick](https://medium.com/data-science/the-kernel-trick-c98cdbcaeb3f). Medium
+   - Nara Guimaraes. [Regressão Logística: Como usá-la em análise de dados](https://medium.com/@nara.guimaraes/regress%C3%A3o-log%C3%ADstica-como-usu%C3%A1-la-em-an%C3%A1lise-de-dados-3fdb6be3a255). Medium.
+   - Bernardo Coutinho. [Modelos de Predição](https://medium.com/turing-talks/turing-talks-12-classifica%C3%A7%C3%A3o-por-svm-f4598094a3f1). Medium.
+   - Samy Baladram. [Decision Tree Classifier, Explained: A Visual Guide with Code Examples for Beginners](https://medium.com/data-science/decision-tree-classifier-explained-a-visual-guide-with-code-examples-for-beginners-7c863f06a71e). Medium.
+   - Sunil Ray. [Understanding Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/). Analytics Vidhya.
+   - Avinash Navlani. [SVM Tutorial](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python). DataCamp
+   - Avinash Naviani. [Tutorial sobre classificação por árvore de decisão em Python](https://www.datacamp.com/pt/tutorial/decision-tree-classification-python). DataCamp
+   - Gabriel Sacramento. [Árvore de decisão: entenda esse algoritmo de Machine Learning](https://blog.somostera.com/data-science/arvores-de-decisao). Blog Somostera.
 
-**Vídeos Recomendados:**
-- [StatQuest: Support Vector Machines](https://www.youtube.com/watch?v=efR1C6CvhmE)
-- [SVM with Polynomial Kernel Visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
+- **Vídeos Recomendados:**
+   - [StatQuest: Support Vector Machines](https://www.youtube.com/watch?v=efR1C6CvhmE)
+   - [SVM with Polynomial Kernel Visualization](https://www.youtube.com/watch?v=3liCbRZPrZA)
+   - [Pedram Jahangiry](https://www.youtube.com/@pedramjahangiry)
 
 ---
 
