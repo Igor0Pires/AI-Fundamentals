@@ -44,11 +44,18 @@ Este módulo contém **4 notebooks**:
 ## Fontes (bibliografia principal)
 - Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
 
+- [Multiple Linear Regression using Python - ML](https://www.geeksforgeeks.org/machine-learning/ml-multiple-linear-regression-using-python/). GeeksforGeeks.
+- [Support Vector Regression (SVR) using Linear and Non-Linear Kernels in Scikit Learn](https://www.geeksforgeeks.org/machine-learning/support-vector-regression-svr-using-linear-and-non-linear-kernels-in-scikit-learn/). GeeksforGeeks.
+- [Ensemble Learning](https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/). GeeksforGeeks.
+- [Gradient Boosting in ML](https://www.geeksforgeeks.org/machine-learning/ml-gradient-boosting/#). GeeksforGeeks.
+- [Multiple Linear Regression With scikit-learn](https://www.geeksforgeeks.org/machine-learning/multiple-linear-regression-with-scikit-learn/). GeeksforGeeks.
+- [What is Unsupervised Learning](https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/). GeeksforGeeks.
 
 ---
 
 ## Saber mais (leituras complementares)
 
+- [Machine Learning](https://www.geeksforgeeks.org/machine-learning/). GeeksForGeeks
 
 ---
 

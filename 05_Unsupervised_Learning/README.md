@@ -37,26 +37,36 @@ Este módulo contém **3 notebooks**:
 
 - Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems (3rd ed.). O'Reilly Media.
 
+- Seltman, Howard J. (2018). [Exploratory Data Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/chapter4.pdf). Carnegie Mellon University 
+
+- Prof. Marcelo de Souza Lauretto. (2011). [Análise Exploratória de Dados](https://www.each.usp.br/lauretto/SIN5008_2011/aula01/aula1). EACH-USP 
+- [DBSCAN Clustering in ML - Density based clustering](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/). GeeksForGeeks.
+- [Gaussian Mixture Model](https://www.geeksforgeeks.org/machine-learning/gaussian-mixture-model/). GeeksForGeeks.
+- [K means Clustering](https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/). GeeksForGeeks.
 - [What ls Unsupervised Learning?](https://www.mathworks.com/discovery/unsupervised-learning.html). MathWorks 
-- Mark Taylor. [Supervised vs. Unsupervised Learning: Understanding the Key Differences](https://taylor-mark110.medium.com/supervised-vs-unsupervised-learning-understanding-the-key-differences-d43a3c8ede82). Medium
 - Kurtis Pykes. [Introdução ao aprendizado não supervisionado](https://www.datacamp.com/pt/blog/introduction-to-unsupervised-learning). DataCamp
 - Analytics Vidhya. [Classification vs. Clustering- Which One is Right for Your Data?](https://www.analyticsvidhya.com/blog/2023/05/classification-vs-clustering/). Analytics Vidhya 
-- Prof. Marcelo de Souza Lauretto. [Análise Exploratória de Dados](https://www.each.usp.br/lauretto/SIN5008_2011/aula01/aula1). EACH-USP 
-- Gouranga Jha. [A Holistic Guide to Exploratory Data Analysis (EDA) for Machine Learning and Deep Learning](https://medium.com/@post.gourang/a-holistic-guide-to-exploratory-data-analysis-eda-for-machine-learning-and-deep-learning-bc4f18f0143b). Medium
-- Christine Jiang. [How to NAIL Exploratory Data Analysis Playbook Ep. 4](https://youtu.be/deS6lETubdU?si=cowdXzGujxZAfrVE).
-- [Exploratory Data Analysis](https://www.stat.cmu.edu/~hseltman/309/Book/chapter4.pdf). Carnegie Mellon University 
 ---
 
 ## Saber mais (leituras complementares)
+- **destaques:**
+	- [Machine Learning](https://www.geeksforgeeks.org/machine-learning/machine-learning/). GeeksForGeeks.
 
-- [`sklearn.manifold.TSNE`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
-- [`sklearn.manifold.Isomap`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
-- [`sklearn.decomposition.KernelPCA`](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html)
-- [`sklearn.cluster.AgglomerativeClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
-- [`sklearn.cluster.SpectralClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
-- [`sklearn.cluster.AffinityPropagation`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html)
-- [`sklearn.cluster.MeanShift`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)
-- [`sklearn.cluster.HDBSCAN`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.HDBSCAN.html)
+- **Tutoriais e Artigos:**
+	- Mark Taylor. [Supervised vs. Unsupervised Learning: Understanding the Key Differences](https://taylor-mark110.medium.com/supervised-vs-unsupervised-learning-understanding-the-key-differences-d43a3c8ede82). Medium
+	- Gouranga Jha. [A Holistic Guide to Exploratory Data Analysis (EDA) for Machine Learning and Deep Learning](https://medium.com/@post.gourang/a-holistic-guide-to-exploratory-data-analysis-eda-for-machine-learning-and-deep-learning-bc4f18f0143b). Medium
+- **vídeos recomendados:**
+	- Christine Jiang. [Portfolio Playbook](https://youtube.com/playlist?list=PLA_6vBVye4w2UjCNBeAlDj1UFVxcYkRng&si=5wER6GZhwR8xqPbW). Youtube.
+
+- **Documentação oficial:**
+	- [`sklearn.manifold.TSNE`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+	- [`sklearn.manifold.Isomap`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html)
+	- [`sklearn.decomposition.KernelPCA`](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html)
+	- [`sklearn.cluster.AgglomerativeClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html)
+	- [`sklearn.cluster.SpectralClustering`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html)
+	- [`sklearn.cluster.AffinityPropagation`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html)
+	- [`sklearn.cluster.MeanShift`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html)
+	- [`sklearn.cluster.HDBSCAN`](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.HDBSCAN.html)
 
 
 ---
