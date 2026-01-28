@@ -46,6 +46,8 @@ Este módulo contém **3 notebooks**:
 - [What is unsupervised learning?](https://www.ibm.com/think/topics/unsupervised-learning). IBM.
 - [What is Unsupervised Learning](https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/). GeeksforGeeks
 
+- [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=DE1ZdIzvtzttaR5Z)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 ---
 
 ## Palavras-chave do módulo
