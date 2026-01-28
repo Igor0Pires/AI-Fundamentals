@@ -1,4 +1,4 @@
-# Módulo 1: Introdução ao Machine Learning
+# Módulo 1: Introdução
 
 ## Visão geral do módulo
 
@@ -33,12 +33,21 @@ Este módulo contém **3 notebooks**:
 
 ## Fontes (bibliografia principal)
 
+- Sutton, R. S. & Barto, A. G. (2018 ), Reinforcement Learning: An Introduction , The MIT Press.
+- Moez Ali. [Supervised Machine Learning](https://www.datacamp.com/blog/supervised-machine-learning). DataCamp.
+
 
 ---
 
 ## Saber mais (leituras complementares)
 
+- [O que é aprendizado supervisionado?](https://cloud.google.com/discover/what-is-supervised-learning). Google.
 
+- [What is unsupervised learning?](https://www.ibm.com/think/topics/unsupervised-learning). IBM.
+- [What is Unsupervised Learning](https://www.geeksforgeeks.org/machine-learning/unsupervised-learning/). GeeksforGeeks
+
+- [Stanford CS224N: Natural Language Processing with Deep Learning](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=DE1ZdIzvtzttaR5Z)
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 ---
 
 ## Palavras-chave do módulo
@@ -57,5 +66,8 @@ Este módulo contém **3 notebooks**:
 
 ## Autores
 
+- Gabriel da Silva Navarro
+- Igor Pires Ferreira
+- Maisa Lumi Sonoda
 
 ---

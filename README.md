@@ -1,8 +1,6 @@
-# Case IA.dev
+# Introdução ao Machine Learning
 
-## Introdução
-
-**Case IA.dev** é um material estruturado que cobre Machine Learning desde conceitos fundamentais até algoritmos avançados. O material integra explicações conceituais, formalização matemática e implementação prática em Python.
+**Introdução ao Machine Learning** é um material estruturado que cobre Machine Learning desde conceitos fundamentais até algoritmos avançados. O material integra explicações conceituais, formalização matemática e implementação prática em Python.
 
 ---
 
@@ -12,9 +10,9 @@
 
 #### **Módulo 1: Introdução ao Machine Learning** (3 notebooks)
 Conceitos iniciais: diferenciação entre IA/ML/DL, tipos de aprendizado (supervisionado, não supervisionado, por reforço) e notação matemática básica.
-- [01_fundamentos_ia_ml.ipynb](01_Introducao_ML/01_fundamentos_ia_ml.ipynb)
-- [02_tipos_aprendizado.ipynb](01_Introducao_ML/02_tipos_aprendizado.ipynb)
-- [03_matematica_ml.ipynb](01_Introducao_ML/03_matematica_ml.ipynb)
+- [01_fundamentos_ia_ml.ipynb](01_Introducao/01_fundamentos_ia_ml.ipynb)
+- [02_tipos_aprendizado.ipynb](01_Introducao/02_tipos_aprendizado.ipynb)
+- [03_matematica_ml.ipynb](01_Introducao/03_matematica_ml.ipynb)
 
 #### **Módulo 2: Fundamentos de Machine Learning** (4 notebooks)
 Categorias de modelos, trade-off bias-variância, validação cruzada e engenharia de features.
@@ -57,7 +55,7 @@ Redução de dimensionalidade (PCA, LLE) e clustering (K-Means, DBSCAN, GMM)
 
 Para informações detalhadas sobre cada módulo, consulte:
 
-- [Módulo 1: Introdução ao Machine Learning](01_Introducao_ML/README.md)
+- [Módulo 1: Introdução ao Machine Learning](01_Introducao/README.md)
 - [Módulo 2: Fundamentos de Machine Learning](02_Fundamentos_ML/README.md)
 - [Módulo 3: Classificação](03_Classificacao/README.md)
 - [Módulo 4: Regressão](04_Regressao/README.md)
@@ -84,7 +82,7 @@ pip install -r requirements.txt
 ./
 ├── README.md
 ├── requirements.txt
-├── 01_Introducao_ML/
+├── 01_Introducao/
 │   ├── README.md
 │   ├── 01_fundamentos_ia_ml.ipynb
 │   ├── 02_tipos_aprendizado.ipynb
@@ -114,9 +112,21 @@ pip install -r requirements.txt
     ├── 01_introducao.ipynb
     ├── 02_dimensionality_reduction.ipynb
     └── 03_clustering.ipynb
----
+
+```
+
 
 ## Autores
 
+- Felipe Melo
+- Gabriel da Silva Navarro
+- Henrique Nogueira Pedro Lindoso
+- Igor Pires Ferreira
+- Lucas Antonio Pataluch dos Santos
+- Maisa Lumi Sonoda
+- Rodrigo Catto Menin
+- Thales Vieira Rodrigues
+    
+    
 
 ---
