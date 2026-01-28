@@ -57,6 +57,8 @@ Este módulo contém **3 notebooks**:
 	- Gouranga Jha. [A Holistic Guide to Exploratory Data Analysis (EDA) for Machine Learning and Deep Learning](https://medium.com/@post.gourang/a-holistic-guide-to-exploratory-data-analysis-eda-for-machine-learning-and-deep-learning-bc4f18f0143b). Medium
 - **vídeos recomendados:**
 	- Christine Jiang. [Portfolio Playbook](https://youtube.com/playlist?list=PLA_6vBVye4w2UjCNBeAlDj1UFVxcYkRng&si=5wER6GZhwR8xqPbW). Youtube.
+	- [DeepMind x UCL | Deep Learning Lecture Series 2021](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=p2qpO23xwGCceFSO)	
+	- [MIT 15.773 Hands-On Deep Learning Spring 2024](https://youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp&si=YwR8k4PGpK6R1Fbt)
 
 - **Documentação oficial:**
 	- [`sklearn.manifold.TSNE`](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
